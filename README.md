@@ -1,4 +1,4 @@
 # Demo
 This is my first repository.
 <br>
-Author - Chandu
+Author - Chandu the cuteo
